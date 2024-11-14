@@ -30,6 +30,4 @@ Performance Evaluation: Performance metrics are calculated, and training history
 Example Usage
 To run the project, open the Jupyter notebook and execute each cell in sequence. Ensure that you have the data in the correct file paths.
 
-License
-This project is open-source under the MIT License.
 
