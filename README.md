@@ -1,4 +1,4 @@
-#Image Classification with Deep Learning
+# Image Classification with Deep Learning
 This project implements an image classification model using deep learning techniques to classify images of flowers into multiple categories. The project involves data preparation, model training, evaluation, and comparison of different architectures like InceptionV3 and Xception.
 
 Project Overview
